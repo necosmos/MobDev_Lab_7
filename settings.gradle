@@ -1,0 +1,2 @@
+include ':PinchukProject'
+rootProject.name = "Lab1"

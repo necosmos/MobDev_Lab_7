@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab7</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Rating</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_pics">Pictures</string>
+    <string name="search_bar">Search</string>
+    <string name="add_item">Add</string>
+    <string name="nothing_found">Nothing Found</string>
+    <string name="no_internet">(No Internet…)</string>
+    <string name="add_pic_button">Add</string>
+</resources>
